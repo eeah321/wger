@@ -1,86 +1,163 @@
 [
-    {
-        "model": "exercises.equipment",
-        "pk": 1,
-        "fields": {
-            "name": "Barbell"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 2,
-        "fields": {
-            "name": "SZ-Bar"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 3,
-        "fields": {
-            "name": "Dumbbell"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 4,
-        "fields": {
-            "name": "Gym mat"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 5,
-        "fields": {
-            "name": "Swiss Ball"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 6,
-        "fields": {
-            "name": "Pull-up bar"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 7,
-        "fields": {
-            "name": "none (bodyweight exercise)"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 8,
-        "fields": {
-            "name": "Bench"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 9,
-        "fields": {
-            "name": "Incline bench"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 10,
-        "fields": {
-            "name": "Kettlebell"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 11,
-        "fields": {
-            "name": "Resistance band"
-        }
-    },
-    {
-        "model": "exercises.equipment",
-        "pk": 12,
-        "fields": {
-            "name": "Cable machine"
-        }
-    }
+ {
+  "model": "exercises.equipment",
+  "pk": 1,
+  "fields": {
+   "name": "هالتر"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 2,
+  "fields": {
+   "name": "هالتر ذوزنقه‌ای"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 3,
+  "fields": {
+   "name": "دمبل"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 4,
+  "fields": {
+   "name": "تشک ورزشی"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 5,
+  "fields": {
+   "name": "توپ سوئیسی"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 6,
+  "fields": {
+   "name": "میله بارفیکس"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 7,
+  "fields": {
+   "name": "بدون تجهیزات (وزن بدن)"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 8,
+  "fields": {
+   "name": "نیمکت"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 9,
+  "fields": {
+   "name": "نیمکت شیب‌دار"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 10,
+  "fields": {
+   "name": "کتل‌بل"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 11,
+  "fields": {
+   "name": "کش مقاومتی"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 12,
+  "fields": {
+   "name": "دستگاه سیم‌کش"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 13,
+  "fields": {
+   "name": "دستگاه"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 14,
+  "fields": {
+   "name": "اسمیت ماشین"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 15,
+  "fields": {
+   "name": "وزنه‌دار"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 16,
+  "fields": {
+   "name": "توپ پزشکی"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 17,
+  "fields": {
+   "name": "طناب"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 18,
+  "fields": {
+   "name": "رولر"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 19,
+  "fields": {
+   "name": "هالتر ذوزنقه‌ای"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 20,
+  "fields": {
+   "name": "با کمک"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 21,
+  "fields": {
+   "name": "دستگاه سورتمه"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 22,
+  "fields": {
+   "name": "چرخ شکم"
+  }
+ },
+ {
+  "model": "exercises.equipment",
+  "pk": 23,
+  "fields": {
+   "name": "لاستیک"
+  }
+ }
 ]

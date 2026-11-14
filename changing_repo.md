@@ -76,3 +76,38 @@
   (پوش با URL یک‌بارمصرف انجام شد).
 - **برگشت:** حذف شاخه از fork: `git push https://github.com/eeah321/wger.git --delete custom/backend`
 
+---
+
+## ۲۰۲۶-۱۱-۱۴ — دیتابیس تمرین‌ها فقط از داده‌ی خود کاربر (بدون هیچ منبع آنلاینی)
+
+- **دسته:** دیتابیس / تمرین‌ها
+- **فایل‌ها:**
+  - `wger/exercises/fixtures/exercise-base-data.json`
+  - `wger/exercises/fixtures/translations.json`
+  - `wger/exercises/fixtures/equipment.json`
+  - `wger/exercises/fixtures/muscles.json`
+  - `wger/exercises/fixtures/categories.json`
+- **چه شد:**
+  - دیتابیس تمرین‌ها از فایل `parsed_exercises_matched_v3.json` کاربر ساخته شد:
+    **۳۷۳ تمرین** (۴۹۹ رکورد مچ‌شده، یکتا شده بر اساس `repo.id`)، هر کدام با
+    **۲ ترجمه (فارسی + انگلیسی)** = ۷۴۶ ترجمه.
+  - نام، توضیح و مراحل فارسی از داده‌ی mrgym؛ نام و توضیح انگلیسی از رکورد وگر.
+  - دسته‌ها (۸)، عضله‌ها (۱۶) و تجهیزات (۲۳) فارسی شدند و شناسه‌ها حفظ شد.
+    برای تجهیزاتی که در وگر معادل نداشت (دستگاه، اسمیت ماشین، توپ پزشکی، طناب و…)
+    ۱۱ تجهیزات جدید با شناسه‌ی ۱۳ تا ۲۳ اضافه شد.
+  - عضله‌هایی که معادل وگر نداشتند (hip flexors, rotator cuff, adductors, abductors،
+    ankles, feet, groin, cardiovascular system) در لیست عضلات نیامدند.
+- **چرا:** کاربر خواست دیتابیس تمرین‌ها فقط از داده‌ی خودش باشد و هیچ منبع آنلاینی
+  (wger.de) استفاده نشود.
+- **دست‌نخورده:** `exercise-base-data.json` از ۸۷۲ رکورد رسمی به ۳۷۳ رکورد کاهش یافت؛
+  نسخه‌ی اصلی در تاریخچه‌ی گیت موجود است.
+- **تأیید:** با یک دیتابیس sqlite موقت (`settings/tmpverify.py` که بعد حذف شد)
+  `migrate` + `loaddata` اجرا شد: **۱۲۰۴ شیء از ۷ fixture بدون خطا** لود شد
+  (۳۷۳ تمرین، ۷۴۶ ترجمه، ۸ دسته، ۱۶ عضله، ۲۳ تجهیزات).
+- **نکته:** `wger bootstrap` هنگام استارت همین fixtureها را لود می‌کند، پس دیگر
+  تمرین‌های پیش‌فرض وگر در دیتابیس نیستند. برای جلوگیری از داده‌ی آنلاین باید در
+  `prod.env` مقدار `SYNC_EXERCISES_ON_STARTUP/DOWNLOAD_*_ON_STARTUP/LOAD_ONLINE_FIXTURES_ON_STARTUP=False`
+  و `SYNC_*_CELERY=False` باشد.
+- **برگشت:** `git revert` روی کامیت مربوطه.
+
+
