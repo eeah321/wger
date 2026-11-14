@@ -44,9 +44,6 @@ from wger.exercises.api import views as exercises_api_views
 from wger.exercises.sitemap import ExercisesSitemap
 from wger.gallery.api import views as gallery_api_views
 from wger.manager.api import views as manager_api_views
-from wger.measurements.api import views as measurements_api_views
-from wger.nutrition.api import views as nutrition_api_views
-from wger.trophies.api import views as trophies_api_views
 from wger.utils import oidc_auth
 from wger.utils.api_schema import CachedSchemaGenerator
 from wger.utils.generic_views import TextTemplateView
@@ -206,58 +203,11 @@ router.register(
     basename='muscle',
 )
 
-# Nutrition app
-router.register(r'ingredient', nutrition_api_views.IngredientViewSet, basename='api-ingredient')
-router.register(
-    r'ingredientinfo', nutrition_api_views.IngredientInfoViewSet, basename='api-ingredientinfo'
-)
-router.register(
-    r'ingredient-sync',
-    nutrition_api_views.IngredientSyncViewSet,
-    basename='api-ingredient-sync',
-)
-router.register(
-    r'ingredientweightunit',
-    nutrition_api_views.IngredientWeightUnitViewSet,
-    basename='ingredientweightunit',
-)
-router.register(
-    r'nutritionplan', nutrition_api_views.NutritionPlanViewSet, basename='nutritionplan'
-)
-router.register(
-    r'nutritionplaninfo', nutrition_api_views.NutritionPlanInfoViewSet, basename='nutritionplaninfo'
-)
-router.register(r'nutritiondiary', nutrition_api_views.LogItemViewSet, basename='nutritiondiary')
-router.register(r'meal', nutrition_api_views.MealViewSet, basename='meal')
-router.register(r'mealitem', nutrition_api_views.MealItemViewSet, basename='mealitem')
-router.register(r'ingredient-image', nutrition_api_views.ImageViewSet, basename='ingredientimage')
-
 # Weight app
 router.register(r'weightentry', weight_api_views.WeightEntryViewSet, basename='weightentry')
 
 # Gallery app
 router.register(r'gallery', gallery_api_views.GalleryImageViewSet, basename='gallery')
-
-# Measurements app
-router.register(
-    r'measurement',
-    measurements_api_views.MeasurementViewSet,
-    basename='measurement',
-)
-router.register(
-    r'measurement-category',
-    measurements_api_views.CategoryViewSet,
-    basename='measurement-category',
-)
-
-# Trophies app
-router.register(r'trophy', trophies_api_views.TrophyViewSet, basename='trophy')
-router.register(r'user-trophy', trophies_api_views.UserTrophyViewSet, basename='user-trophy')
-router.register(
-    r'user-statistics',
-    trophies_api_views.UserStatisticsViewSet,
-    basename='user-statistics',
-)
 
 #
 # Sitemaps
@@ -274,16 +224,10 @@ urlpatterns = i18n_patterns(
     path('routine/', include(('wger.manager.urls', 'manager'), namespace='manager')),
     path('exercise/', include(('wger.exercises.urls', 'exercise'), namespace='exercise')),
     path('weight/', include(('wger.weight.urls', 'weight'), namespace='weight')),
-    path('nutrition/', include(('wger.nutrition.urls', 'nutrition'), namespace='nutrition')),
     path('software/', include(('wger.software.urls', 'software'), namespace='software')),
     path('config/', include(('wger.config.urls', 'config'), namespace='config')),
     path('gym/', include(('wger.gym.urls', 'gym'), namespace='gym')),
     path('gallery/', include(('wger.gallery.urls', 'gallery'), namespace='gallery')),
-    path('trophies/', include(('wger.trophies.urls', 'trophies'), namespace='trophies')),
-    path(
-        'measurement/',
-        include(('wger.measurements.urls', 'measurements'), namespace='measurements'),
-    ),
     path('email/', include(('wger.mailer.urls', 'email'), namespace='email')),
     path('sitemap.xml', index, {'sitemaps': sitemaps}, name='sitemap'),
     path(

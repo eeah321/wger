@@ -155,63 +155,6 @@
 
 
 
-<h4>{% translate "Nutrition plans" %} <small>({% blocktranslate with number=5 %}last {{ number }}{% endblocktranslate %})</small></h4>
-{% if perms.gym.gym_trainer %}
-    <form method="post" action="{{trainer_login}}" class="d-inline">
-        {% csrf_token %}
-        <input type="hidden" name="next" value="{% url 'nutrition:plan:overview' %}">
-        <button type="submit" class="btn btn-light btn-sm">{% translate "Overview" %}</button>
-    </form>
-{% endif %}
-
-<table class="table">
-<thead>
-<tr>
-    <th style="width: 25%;">{% translate "Date" %}</th>
-    <th>{% translate "Description" %}</th>
-    <th>{% translate "Energy" %}</th>
-    <th>{% translate "Protein" %}</th>
-    <th>{% translate "Carbohydrates" %}</th>
-    <th>{% translate "Fat" %}</th>
-</tr>
-</thead>
-<tbody>
-{% for nutrition_plan in nutrition_plans %}
-<tr>
-    <td>
-        {{nutrition_plan.creation_date}}
-    </td>
-    <td>
-        <form method="post" action="{{trainer_login}}" class="d-inline">
-            {% csrf_token %}
-            <input type="hidden" name="next" value="{{ nutrition_plan.get_absolute_url }}">
-            <button type="submit" class="btn btn-link p-0 align-baseline border-0">{{nutrition_plan}}</button>
-        </form>
-    </td>
-    <td>
-        {{nutrition_plan.get_nutritional_values.total.energy|floatformat}} {% translate "kcal" %}
-    </td>
-    <td>
-        {{nutrition_plan.get_nutritional_values.total.protein|floatformat}} {% translate "g" context "weight unit, i.e. grams" %}
-    </td>
-    <td>
-        {{nutrition_plan.get_nutritional_values.total.carbohydrates|floatformat}} {% translate "g" context "weight unit, i.e. grams" %}
-    </td>
-    <td>
-        {{nutrition_plan.get_nutritional_values.total.fat|floatformat}} {% translate "g" context "weight unit, i.e. grams" %}
-    </td>
-</tr>
-{% empty %}
-<tr>
-    <td colspan="6">
-        {% translate "Nothing found" %}
-    </td>
-</tr>
-{% endfor %}
-</tbody>
-</table>
-
-
 {% endif %}
 {% endblock %}
 

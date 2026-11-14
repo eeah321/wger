@@ -654,7 +654,7 @@ WGER_REQUEST_TIMEOUT = 60
 # Application specific configuration options
 #
 WGER_SETTINGS = {
-    'ALLOW_GUEST_USERS': True,
+    'ALLOW_GUEST_USERS': False,
     'ALLOW_REGISTRATION': True,
     'ALLOW_UPLOAD_VIDEOS': False,
     'EMAIL_FROM': 'wger Workout Manager <wger@example.com>',
@@ -686,7 +686,7 @@ WGER_SETTINGS = {
     'WGER_INSTANCE': 'https://wger.de',
 
     # Trophy system settings
-    'TROPHIES_ENABLED': True,
+    'TROPHIES_ENABLED': False,
     'TROPHIES_INACTIVE_USER_DAYS': 30,  # Days of inactivity before skipping trophy evaluation
 }
 
