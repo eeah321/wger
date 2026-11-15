@@ -1,0 +1,24 @@
+{
+    admin off
+    auto_https disable_redirects
+}
+
+{$SITE_DOMAIN} {
+    encode zstd
+
+    handle /static/* {
+        root * /wger
+        file_server
+    }
+
+    handle /media/* {
+        root * /wger
+        file_server
+    }
+
+    handle_path /ps/* {
+        reverse_proxy powersync:8080
+    }
+
+    reverse_proxy web:8000
+}

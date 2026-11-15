@@ -1,0 +1,101 @@
+# deployment شخصی‌سازی‌شده — بدون include، بدون آپدیت خودکار
+# اجرا: docker compose up -d     (از همین پوشه)
+
+name: wger
+
+services:
+  web:
+    image: eeah321/wger-server:custom
+    env_file: [prod.env]
+    volumes:
+      - static:/home/wger/static
+      - media:/home/wger/media
+    expose: ["8000"]
+    depends_on:
+      db: {condition: service_healthy}
+      cache: {condition: service_healthy}
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "-O", "/dev/null", "http://localhost:8000/api/v2/version/"]
+      interval: 10s
+      timeout: 5s
+      start_period: 300s
+      retries: 5
+    restart: unless-stopped
+
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: wger
+      POSTGRES_DB: wger
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      TZ: ${TZ}
+    command: ["postgres", "-c", "wal_level=logical"]
+    volumes: [postgres-data:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h localhost -U wger"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  cache:
+    image: redis:7-alpine
+    volumes: [redis-data:/data]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  powersync:
+    image: journeyapps/powersync-service:latest
+    command: ["start", "-r", "unified"]
+    env_file: [prod.env]
+    environment:
+      POWERSYNC_CONFIG_PATH: /config/powersync.yaml
+      PS_JWKS_URL: http://web:8000/api/v2/powersync-keys
+    volumes: [./powersync:/config:ro]
+    depends_on:
+      db: {condition: service_healthy}
+    expose: ["8080"]
+    restart: unless-stopped
+
+  celery_worker:
+    image: eeah321/wger-server:custom
+    command: /start-worker
+    env_file: [prod.env]
+    volumes: [media:/home/wger/media]
+    depends_on:
+      web: {condition: service_healthy}
+    restart: unless-stopped
+
+  celery_beat:
+    image: eeah321/wger-server:custom
+    command: /start-beat
+    env_file: [prod.env]
+    volumes: [celery-beat:/home/wger/beat/]
+    restart: unless-stopped
+
+  caddy:
+    image: caddy:2-alpine
+    depends_on: [web]
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - static:/wger/static:ro
+      - media:/wger/media:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    ports: ["80:80", "443:443"]
+    restart: unless-stopped
+
+volumes:
+  postgres-data:
+  redis-data:
+  static:
+  media:
+  celery-beat:
+  caddy-data:
+  caddy-config:
