@@ -110,4 +110,31 @@
   و `SYNC_*_CELERY=False` باشد.
 - **برگشت:** `git revert` روی کامیت مربوطه.
 
+---
+
+## ۲۰۲۶-۱۱-۱۴ — ریپوی خصوصی + deployment خودکار (بدون تنظیم دستی)
+
+- **دسته:** زیرساخت / استقرار
+- **فایل‌ها:**
+  - `deploy/docker-compose.yml` (جدید)
+  - `deploy/prod.env` (جدید)
+  - `deploy/Caddyfile` (جدید)
+  - `deploy/powersync/{powersync.yaml,sync_rules.yaml}` (جدید)
+  - `deploy/README.md` (جدید)
+  - `.github/workflows/` (حذف شد)
+- **چه شد:**
+  - ریپوی خصوصی **`eeah321/wger-custom`** ساخته شد (یک fork پابلیک نمی‌تواند خصوصی شود).
+  - پوشه‌ی `deploy/` با **همه‌ی تنظیمات از قبل تنظیم‌شده** به ریپو اضافه شد:
+    compose اختصاصی (بدون `include` و بدون تعارض)، `prod.env` کامل (به‌همراه
+    `SECRET_KEY`، `JWT_*` و `POSTGRES_PASSWORD` تولیدشده)، `Caddyfile` برای HTTPS خودکار،
+    و تنظیمات PowerSync.
+  - CI workflowهای بالادستی حذف شد (برای یک fork شخصی لازم نیست و توکن بدون دسترسی
+    `workflow` نمی‌تواند آن‌ها را پوش کند).
+- **چرا:** کاربر خواست هیچ مقداری را دستی تعیین نکند و با یک دستور اجرا کند؛ و داده‌ها
+  خصوصی هستند.
+- **تأیید:** شاخه‌ی `custom/backend` روی هر دو ریپو پوش شد؛ ریپوی خصوصی `private: True`
+  تأیید شد و پوشه‌ی `deploy/` در آن دیده می‌شود.
+- **برگشت:** حذف پوشه‌ی `deploy/` و `git revert` روی کامیت‌ها.
+
+
 
