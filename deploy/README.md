@@ -38,20 +38,17 @@ docker compose exec web ./manage.py createsuperuser
 
 ## تنها تنظیم اختیاری: دامنه
 
-اگر دامنه‌ی خودت را داری، در `prod.env` فقط این سه خط را عوض کن:
+دامنه‌ی این نسخه **`gym.mofcious.ir`** است و در `prod.env` تنظیم شده. فقط مطمئن شو
+رکورد A دامنه به IP سرور اشاره می‌کند. Caddy خودش گواهی HTTPS (Let's Encrypt) می‌گیرد
+و پورت ۴۴۳ را می‌شنود.
+
+اگر دامنه را عوض کردی، در `prod.env` این سه خط را به‌روز کن:
 
 ```ini
-SITE_DOMAIN=fit.example.com
-SITE_URL=https://fit.example.com
-CSRF_TRUSTED_ORIGINS=https://fit.example.com
+SITE_DOMAIN=gym.mofcious.ir
+SITE_URL=https://gym.mofcious.ir
+CSRF_TRUSTED_ORIGINS=https://gym.mofcious.ir
 ```
-
-و رکوردهای DNS دامنه را به IP سرور بزن. Caddy خودش گواهی HTTPS (Let's Encrypt)
-می‌گیرد و پورت ۴۴۳ را می‌شنود.
-
-اگر دامنه نداری، `SITE_DOMAIN` را روی آدرس IP سرور بگذار
-(مثلاً `SITE_DOMAIN=192.168.1.10`) — آن‌وقت HTTPS کار نمی‌کند و فقط HTTP باز می‌شود؛
-در این حالت بهتر است پورت 80 را مستقیم باز کنی.
 
 ## به‌روزرسانی
 
