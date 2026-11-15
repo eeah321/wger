@@ -190,6 +190,33 @@
 - **چرا:** کاربر خواست روی کار کردن پایه‌ی برنامه تمرکز کنیم و ویدیو برای بعد باشد.
 - **برگشت:** `git revert` روی کامیت مربوطه.
 
+---
+
+## ۲۰۲۶-۱۱-۱۵ — تست عملیاتی کامل + تنظیمات production
+
+- **دسته:** تست / تنظیمات
+- **فایل‌ها:**
+  - `deploy/prod.env` (اصلاح `DJANGO_CACHE_CLIENT_CLASS`، افزودن Axes/کش/سرور)
+  - `wger/exercises/fixtures/exercise-base-data.json` (`license_author` → `mrgym.ir`)
+- **چه شد:**
+  - تست عملیاتی واقعی روی یک دیتابیس لوکال (به‌جای Docker که در این محیط در دسترس
+    نیست): `migrate` + `wger bootstrap` + اجرای سرور + صدا زدن API و صفحه‌ها.
+  - یک باگ واقعی پیدا و رفع شد: `DJANGO_CACHE_CLIENT_CLASS` به `django_redis.cache.DefaultClient`
+    اشتبه بود و باعث می‌شد اپ بالا نیاید؛ به `django_redis.client.DefaultClient` اصلاح شد.
+  - تنظیمات تولید کامل شد: Axes (محدودیت ورود)، کش تمرین‌ها، توکن‌ها، gunicorn،
+    `NUMBER_OF_PROXIES=1`، `POWERSYNC_URL_PATH`، `CAPTCHA_PROVIDER=none`.
+  - `license_author` تمرین‌ها از `wger.de` به `mrgym.ir` تغییر کرد.
+- **نتیجه‌ی تست (واقعی):**
+  - `wger bootstrap`: ۳۷۳ تمرین، ۷۴۶ ترجمه، ۳۷۳ تصویر لود شد.
+  - `GET /api/v2/version/` → 200 (`2.8.0-dev.5`).
+  - `GET /api/v2/exerciseinfo/` → نام/دسته/عضله/تجهیزات **فارسی** + URL تصویر.
+  - `GET /media/exercise-images/...` → 200 `image/webp`.
+  - `GET /` → 302 به `/fa/software/features` (یعنی زبان پیش‌فرض فارسی است).
+  - `GET /fa/user/registration` و `POST` آن → کاربر جدید ساخته شد.
+  - `POST /fa/user/login` با `admin/adminadmin` → ورود موفق و سشن ساخته شد.
+  - `collectstatic` → ۱۰۱۷۲ فایل کپی شد.
+- **برگشت:** `git revert` روی کامیت مربوطه.
+
 
 
 

@@ -2,3 +2,4 @@
 media/*
 !media/exercise-images/
 !media/exercise-images/**
+*.q85.jpg
