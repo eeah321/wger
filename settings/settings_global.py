@@ -388,7 +388,7 @@ USE_THOUSAND_SEPARATOR = True
 # timezone as the operating system.
 # If running in a Windows environment this must be set to the same as your
 # system time zone.
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Tehran'
 
 # Available languages. Needs to be kept in sync with sufficiently
 # translated languages: https://hosted.weblate.org/projects/wger/web/
@@ -438,7 +438,7 @@ AVAILABLE_LANGUAGES = (
 )
 
 # Default language code for this installation.
-LANGUAGE_CODE = 'en'
+LANGUAGE_CODE = 'fa'
 
 # All translation files are in one place
 LOCALE_PATHS = (os.path.join(SITE_ROOT, 'locale'),)

@@ -136,5 +136,38 @@
   تأیید شد و پوشه‌ی `deploy/` در آن دیده می‌شود.
 - **برگشت:** حذف پوشه‌ی `deploy/` و `git revert` روی کامیت‌ها.
 
+---
+
+## ۲۰۲۶-۱۱-۱۵ — زبان پیش‌فرض فارسی + تصاویر و ویدیوهای هر تمرین
+
+- **دسته:** تنظیمات / مدیا
+- **فایل‌ها:**
+  - `settings/settings_global.py` — `LANGUAGE_CODE='fa'` و `TIME_ZONE='Asia/Tehran'`
+  - `wger/exercises/fixtures/exercise-images.json` (جدید، ۳۷۳ رکورد)
+  - `wger/exercises/fixtures/exercise-videos.json` (جدید، ۳۷۳ رکورد)
+  - `wger/tasks.py` — لود این دو fixture در `bootstrap`
+  - `deploy/media/exercise-images/**` (۳۷۳ تصویر webp، ~۱۱ مگابایت)
+  - `deploy/media/videos.json` (مانفست ۳۷۳ ویدیو)
+  - `deploy/download-videos.py` (جدید)
+  - `deploy/docker-compose.yml` — سرویس `media-init` + مانت bind برای `media`
+  - `deploy/.gitignore` (جدید)
+- **چه شد:**
+  - زبان پیش‌فرض سیستم فارسی و منطقه‌ی زمانی تهران شد.
+  - تصاویر تمرین‌ها از `mrgym.ir` دانلود و در پوشه‌ی `media/exercise-images/` ریپو شد
+    و با رکوردهای `exercises.exerciseimage` به هر تمرین وصل شد (هر تمرین یک تصویر
+    اصلی `is_main=true`).
+  - ویدیوها در یک جدول جدا (`exercises.exercisevideo`) به هر تمرین وصل شد. خود
+    فایل‌های ویدیو (مجموعاً ~۱.۵ گیگابایت) در ریپو نمی‌آیند؛ سرویس `media-init` در
+    اولین استقرار آن‌ها را از `mrgym.ir` دانلود می‌کند (با `DOWNLOAD_VIDEOS=false`
+    غیرفعال می‌شود و هر فایلِ موجود دوباره دانلود نمی‌شود).
+  - `media` به‌جای ولوم نامی، مانت bind به `deploy/media` شد تا هم تصاویر ریپو و هم
+    فایل‌های دانلودشده در دسترس wger باشند.
+- **چرا:** کاربر خواست زبان پیش‌فرض فارسی شود و تصاویر/ویدیوهای هر حرکت در جدول جدا
+  به حرکت متصل شوند.
+- **تأیید:** لود fixtureها روی دیتابیس موقت: **۱۹۵۰ شیء از ۹ fixture بدون خطا**
+  (۳۷۳ تمرین، ۷۴۶ ترجمه، ۳۷۳ تصویر، ۳۷۳ ویدیو) و `manage.py check` بدون خطا.
+- **برگشت:** `git revert` روی کامیت مربوطه.
+
+
 
 

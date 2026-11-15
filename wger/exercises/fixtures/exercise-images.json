@@ -1,0 +1,5970 @@
+[
+ {
+  "pk": 1,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6cad3e62da4c4dd99062be7af7355403",
+   "image": "exercise-images/0002/6cad3e62da4c4dd99062be7af7355403.webp",
+   "exercise": 2,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 2,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "283578a4da3d40b6a233cbfad96067e6",
+   "image": "exercise-images/0006/283578a4da3d40b6a233cbfad96067e6.webp",
+   "exercise": 6,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 3,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5c28761f2d524367a545c642f549ef69",
+   "image": "exercise-images/0011/5c28761f2d524367a545c642f549ef69.webp",
+   "exercise": 11,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 4,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bc65785fe9134459a305bd668f2ed3a8",
+   "image": "exercise-images/0013/bc65785fe9134459a305bd668f2ed3a8.webp",
+   "exercise": 13,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 5,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c38084e13dac489da9b4071c58a1212a",
+   "image": "exercise-images/0014/c38084e13dac489da9b4071c58a1212a.webp",
+   "exercise": 14,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 6,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7bf34047f5ca479faa57b9bcacf4e2ff",
+   "image": "exercise-images/0015/7bf34047f5ca479faa57b9bcacf4e2ff.webp",
+   "exercise": 15,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 7,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f6ca759fb6934df7a139ee337058e5f0",
+   "image": "exercise-images/0017/f6ca759fb6934df7a139ee337058e5f0.webp",
+   "exercise": 17,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 8,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "646f3fbf3bf34ba48722ea507e9a94b0",
+   "image": "exercise-images/0019/646f3fbf3bf34ba48722ea507e9a94b0.webp",
+   "exercise": 19,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 9,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "07235fa447304903b640c7a906b6a995",
+   "image": "exercise-images/0024/07235fa447304903b640c7a906b6a995.webp",
+   "exercise": 24,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 10,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "60e0850eae75494a8a9109c7e96a03a1",
+   "image": "exercise-images/0025/60e0850eae75494a8a9109c7e96a03a1.webp",
+   "exercise": 25,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 11,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9bcb471e2f93416289d036e8f7c320e4",
+   "image": "exercise-images/0026/9bcb471e2f93416289d036e8f7c320e4.webp",
+   "exercise": 26,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 12,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c16d8737a7bc455cb44cbb137e9fa2e1",
+   "image": "exercise-images/0027/c16d8737a7bc455cb44cbb137e9fa2e1.webp",
+   "exercise": 27,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 13,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b25aab61777743c0907d30f15c4a47f3",
+   "image": "exercise-images/0028/b25aab61777743c0907d30f15c4a47f3.webp",
+   "exercise": 28,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 14,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f41b753523874880926beb11511b1854",
+   "image": "exercise-images/0030/f41b753523874880926beb11511b1854.webp",
+   "exercise": 30,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 15,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "eddcd95f7fa1476986feba8f23ae150a",
+   "image": "exercise-images/0031/eddcd95f7fa1476986feba8f23ae150a.webp",
+   "exercise": 31,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 16,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5f8cc396c0e64581be29ed9e52f72799",
+   "image": "exercise-images/0032/5f8cc396c0e64581be29ed9e52f72799.webp",
+   "exercise": 32,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 17,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "929ded71003a4cf9b7cd9cde38164202",
+   "image": "exercise-images/0033/929ded71003a4cf9b7cd9cde38164202.webp",
+   "exercise": 33,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 18,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0242bf2e7b7e4b7ba7f511346b649d78",
+   "image": "exercise-images/0038/0242bf2e7b7e4b7ba7f511346b649d78.webp",
+   "exercise": 38,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 19,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c19215aad21647619f22fc47dca4765d",
+   "image": "exercise-images/0041/c19215aad21647619f22fc47dca4765d.webp",
+   "exercise": 41,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 20,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cb273fd8ed8c4f15922f3669f96c6e8d",
+   "image": "exercise-images/0042/cb273fd8ed8c4f15922f3669f96c6e8d.webp",
+   "exercise": 42,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 21,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3cab447d1cc74c1dadfa6a8cffce50e0",
+   "image": "exercise-images/0044/3cab447d1cc74c1dadfa6a8cffce50e0.webp",
+   "exercise": 44,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 22,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f1e496f7dccd4875b71a5534ce2a8bc3",
+   "image": "exercise-images/0047/f1e496f7dccd4875b71a5534ce2a8bc3.webp",
+   "exercise": 47,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 23,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "16d29bcc97e44975bfd8471d0919c6b5",
+   "image": "exercise-images/0054/16d29bcc97e44975bfd8471d0919c6b5.webp",
+   "exercise": 54,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 24,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1e9337ef6860493ea3bf96c41fb35522",
+   "image": "exercise-images/0058/1e9337ef6860493ea3bf96c41fb35522.webp",
+   "exercise": 58,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 25,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "78971ce538f149a4888585210e2a9833",
+   "image": "exercise-images/0060/78971ce538f149a4888585210e2a9833.webp",
+   "exercise": 60,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 26,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1dfd921cd7dd4b3bbc6dae5e3efe927d",
+   "image": "exercise-images/0064/1dfd921cd7dd4b3bbc6dae5e3efe927d.webp",
+   "exercise": 64,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 27,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8af5f4d43c4d47298fd0e0c4d1d9f6bf",
+   "image": "exercise-images/0065/8af5f4d43c4d47298fd0e0c4d1d9f6bf.webp",
+   "exercise": 65,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 28,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f4675a4913ec4c4588a214c827625420",
+   "image": "exercise-images/0069/f4675a4913ec4c4588a214c827625420.webp",
+   "exercise": 69,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 29,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "10e41d17f39a478e84329df68274a599",
+   "image": "exercise-images/0070/10e41d17f39a478e84329df68274a599.webp",
+   "exercise": 70,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 30,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d781f37ad6df490c96ce3e6e7e0e0ac6",
+   "image": "exercise-images/0073/d781f37ad6df490c96ce3e6e7e0e0ac6.webp",
+   "exercise": 73,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 31,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "180a3e9a89f2421aa32187a84cefaab4",
+   "image": "exercise-images/0074/180a3e9a89f2421aa32187a84cefaab4.webp",
+   "exercise": 74,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 32,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b23e1b77d08a4d01a9a4b315060744d9",
+   "image": "exercise-images/0080/b23e1b77d08a4d01a9a4b315060744d9.webp",
+   "exercise": 80,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 33,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "00382ad83ef94e6dbd5e27ea44490c37",
+   "image": "exercise-images/0082/00382ad83ef94e6dbd5e27ea44490c37.webp",
+   "exercise": 82,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 34,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fb4cb6f331e042fb9c281259c4fa4ce2",
+   "image": "exercise-images/0084/fb4cb6f331e042fb9c281259c4fa4ce2.webp",
+   "exercise": 84,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 35,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b4579f6d77ab442e983420e91eb390aa",
+   "image": "exercise-images/0085/b4579f6d77ab442e983420e91eb390aa.webp",
+   "exercise": 85,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 36,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1e8ff1b630e24d5fa28d0ca6af3c27d2",
+   "image": "exercise-images/0088/1e8ff1b630e24d5fa28d0ca6af3c27d2.webp",
+   "exercise": 88,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 37,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0ce26017bea941e6b4773c09f9ab30d9",
+   "image": "exercise-images/0091/0ce26017bea941e6b4773c09f9ab30d9.webp",
+   "exercise": 91,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 38,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "36087d0e94fe45feb9c313a7221b494c",
+   "image": "exercise-images/0095/36087d0e94fe45feb9c313a7221b494c.webp",
+   "exercise": 95,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 39,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e00493f8f55a4cc583397e51e80d90f4",
+   "image": "exercise-images/0099/e00493f8f55a4cc583397e51e80d90f4.webp",
+   "exercise": 99,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 40,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3165a106c0e24c99b69d62cfd9b4b1e3",
+   "image": "exercise-images/0113/3165a106c0e24c99b69d62cfd9b4b1e3.webp",
+   "exercise": 113,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 41,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8b60cd2991de4df2a5e975d7632a20df",
+   "image": "exercise-images/0114/8b60cd2991de4df2a5e975d7632a20df.webp",
+   "exercise": 114,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 42,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8c8f629df2aa4ef29104de29dcd99979",
+   "image": "exercise-images/0115/8c8f629df2aa4ef29104de29dcd99979.webp",
+   "exercise": 115,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 43,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "455e20cd63834650990f976a147172ef",
+   "image": "exercise-images/0116/455e20cd63834650990f976a147172ef.webp",
+   "exercise": 116,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 44,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a925c94608234a209c43b0ffc28eee3b",
+   "image": "exercise-images/0117/a925c94608234a209c43b0ffc28eee3b.webp",
+   "exercise": 117,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 45,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1f2a5c0d3c8c4637a59a160c107d1a38",
+   "image": "exercise-images/0118/1f2a5c0d3c8c4637a59a160c107d1a38.webp",
+   "exercise": 118,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 46,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "aef3b8d3c24e42f9a39899a911eb2c44",
+   "image": "exercise-images/0120/aef3b8d3c24e42f9a39899a911eb2c44.webp",
+   "exercise": 120,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 47,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8a99b9b58d87435797c6be9be535c942",
+   "image": "exercise-images/0124/8a99b9b58d87435797c6be9be535c942.webp",
+   "exercise": 124,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 48,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8920009741134e299bb3579324c380ab",
+   "image": "exercise-images/0126/8920009741134e299bb3579324c380ab.webp",
+   "exercise": 126,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 49,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c79e001de0a3406fb0d868d21f646ef9",
+   "image": "exercise-images/0127/c79e001de0a3406fb0d868d21f646ef9.webp",
+   "exercise": 127,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 50,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0479cb515a8f497dbc1cb249e5cd6f01",
+   "image": "exercise-images/0128/0479cb515a8f497dbc1cb249e5cd6f01.webp",
+   "exercise": 128,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 51,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "705225b3f3194c14a7aaf4fba6a59bf0",
+   "image": "exercise-images/0153/705225b3f3194c14a7aaf4fba6a59bf0.webp",
+   "exercise": 153,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 52,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d949feb2e4c344fa93e0eb22a4989f1a",
+   "image": "exercise-images/0154/d949feb2e4c344fa93e0eb22a4989f1a.webp",
+   "exercise": 154,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 53,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0a5da3eb19c44185ad784ddb26bf74a7",
+   "image": "exercise-images/0155/0a5da3eb19c44185ad784ddb26bf74a7.webp",
+   "exercise": 155,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 54,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "98f5eebffbd94ba08fe1bfbb149362af",
+   "image": "exercise-images/0162/98f5eebffbd94ba08fe1bfbb149362af.webp",
+   "exercise": 162,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 55,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1b7242f33507414f8b040971d83a5e70",
+   "image": "exercise-images/0165/1b7242f33507414f8b040971d83a5e70.webp",
+   "exercise": 165,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 56,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cc5b853af6d647a88ac4112d7eb061e4",
+   "image": "exercise-images/0167/cc5b853af6d647a88ac4112d7eb061e4.webp",
+   "exercise": 167,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 57,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "837f755fe856422781b0050a25b903aa",
+   "image": "exercise-images/0168/837f755fe856422781b0050a25b903aa.webp",
+   "exercise": 168,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 58,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1ee38d5c47ba43d6974ca78562ac2c14",
+   "image": "exercise-images/0169/1ee38d5c47ba43d6974ca78562ac2c14.webp",
+   "exercise": 169,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 59,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6f4180efd1c84a32a92dbe7ae7af71d6",
+   "image": "exercise-images/0171/6f4180efd1c84a32a92dbe7ae7af71d6.webp",
+   "exercise": 171,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 60,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "faf14dd8a69d4052b8dd8f3755836078",
+   "image": "exercise-images/0175/faf14dd8a69d4052b8dd8f3755836078.webp",
+   "exercise": 175,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 61,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cf08c56de8604c7fa29f1a23e2169b48",
+   "image": "exercise-images/0178/cf08c56de8604c7fa29f1a23e2169b48.webp",
+   "exercise": 178,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 62,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "91d0af0d5ac24f33a93096eaa251fa4f",
+   "image": "exercise-images/0179/91d0af0d5ac24f33a93096eaa251fa4f.webp",
+   "exercise": 179,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 63,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b252a67f7d794fc2aa5fcf234c4ca3b5",
+   "image": "exercise-images/0185/b252a67f7d794fc2aa5fcf234c4ca3b5.webp",
+   "exercise": 185,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 64,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "40c1a2ad008f4de68efb53131e7ce978",
+   "image": "exercise-images/0188/40c1a2ad008f4de68efb53131e7ce978.webp",
+   "exercise": 188,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 65,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8a34c3a8991d4b85b1b160ffc6cb4d7e",
+   "image": "exercise-images/0190/8a34c3a8991d4b85b1b160ffc6cb4d7e.webp",
+   "exercise": 190,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 66,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c90024f1baad4b91b1ea3d90ca1326e7",
+   "image": "exercise-images/0194/c90024f1baad4b91b1ea3d90ca1326e7.webp",
+   "exercise": 194,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 67,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4bbf04b79a104283b720774687eef040",
+   "image": "exercise-images/0195/4bbf04b79a104283b720774687eef040.webp",
+   "exercise": 195,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 68,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0bccd01351334844b52705f09b1c743c",
+   "image": "exercise-images/0196/0bccd01351334844b52705f09b1c743c.webp",
+   "exercise": 196,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 69,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "12e43ecd4f9445a08ecfc8a619fda56f",
+   "image": "exercise-images/0198/12e43ecd4f9445a08ecfc8a619fda56f.webp",
+   "exercise": 198,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 70,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b751fc4f8a30488f8316047d010303b2",
+   "image": "exercise-images/0201/b751fc4f8a30488f8316047d010303b2.webp",
+   "exercise": 201,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 71,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f288c8aff2e443d29628c7ef77db46bd",
+   "image": "exercise-images/0207/f288c8aff2e443d29628c7ef77db46bd.webp",
+   "exercise": 207,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 72,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "81831a591fb74bcd84f8f1e476c8a08d",
+   "image": "exercise-images/0211/81831a591fb74bcd84f8f1e476c8a08d.webp",
+   "exercise": 211,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 73,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3353461736a54fda82c2623a888bfbcf",
+   "image": "exercise-images/0216/3353461736a54fda82c2623a888bfbcf.webp",
+   "exercise": 216,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 74,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ca256d7233954b2ea44c8f72945ce1fa",
+   "image": "exercise-images/0219/ca256d7233954b2ea44c8f72945ce1fa.webp",
+   "exercise": 219,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 75,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0641b2630bec40618108fdfea47b1ce9",
+   "image": "exercise-images/0220/0641b2630bec40618108fdfea47b1ce9.webp",
+   "exercise": 220,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 76,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1c28a7bfb4c24a6bb655949d3fd168aa",
+   "image": "exercise-images/0221/1c28a7bfb4c24a6bb655949d3fd168aa.webp",
+   "exercise": 221,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 77,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1965c3fdd35246239b8712dbebe1bfb8",
+   "image": "exercise-images/0228/1965c3fdd35246239b8712dbebe1bfb8.webp",
+   "exercise": 228,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 78,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5e2e3d8c1ab74e49ab33d7fe816c1b30",
+   "image": "exercise-images/0230/5e2e3d8c1ab74e49ab33d7fe816c1b30.webp",
+   "exercise": 230,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 79,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f69b6eaa867549a288c85e6655a6e197",
+   "image": "exercise-images/0231/f69b6eaa867549a288c85e6655a6e197.webp",
+   "exercise": 231,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 80,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d27651c1fcdb4fd78963d3ed732d31d7",
+   "image": "exercise-images/0235/d27651c1fcdb4fd78963d3ed732d31d7.webp",
+   "exercise": 235,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 81,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d181584ecfd543bc9e2bd086c411f614",
+   "image": "exercise-images/0238/d181584ecfd543bc9e2bd086c411f614.webp",
+   "exercise": 238,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 82,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2e07dad2d50a42f0b524b6510d4caf4b",
+   "image": "exercise-images/0243/2e07dad2d50a42f0b524b6510d4caf4b.webp",
+   "exercise": 243,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 83,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d68eb15087e94bf7ab3c8cf9a689b422",
+   "image": "exercise-images/0246/d68eb15087e94bf7ab3c8cf9a689b422.webp",
+   "exercise": 246,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 84,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3b5cb561436a40e692c013b79199cfd8",
+   "image": "exercise-images/0247/3b5cb561436a40e692c013b79199cfd8.webp",
+   "exercise": 247,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 85,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "27b52ada0fcd49f3937256f417dbbb79",
+   "image": "exercise-images/0251/27b52ada0fcd49f3937256f417dbbb79.webp",
+   "exercise": 251,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 86,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "95559b0e46be4967b3619339e345372b",
+   "image": "exercise-images/0271/95559b0e46be4967b3619339e345372b.webp",
+   "exercise": 271,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 87,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8a77b8f29ceb4bc48bcd707e06618a93",
+   "image": "exercise-images/0274/8a77b8f29ceb4bc48bcd707e06618a93.webp",
+   "exercise": 274,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 88,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "27b917a7b9304c8b9a52359cd98a8e7c",
+   "image": "exercise-images/0276/27b917a7b9304c8b9a52359cd98a8e7c.webp",
+   "exercise": 276,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 89,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a54dd03e8f2c43869d9e669618ef6b5b",
+   "image": "exercise-images/0277/a54dd03e8f2c43869d9e669618ef6b5b.webp",
+   "exercise": 277,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 90,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f5e251b6843d45ddba17e858c9a8bda2",
+   "image": "exercise-images/0279/f5e251b6843d45ddba17e858c9a8bda2.webp",
+   "exercise": 279,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 91,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0136fee5c5cb43f6920c27ba1506e3b9",
+   "image": "exercise-images/0282/0136fee5c5cb43f6920c27ba1506e3b9.webp",
+   "exercise": 282,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 92,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "27b4c0b3261f40948e0751e29ed2333b",
+   "image": "exercise-images/0283/27b4c0b3261f40948e0751e29ed2333b.webp",
+   "exercise": 283,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 93,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "219cb0c3cf1a4e7f959e2daa7a6d425f",
+   "image": "exercise-images/0288/219cb0c3cf1a4e7f959e2daa7a6d425f.webp",
+   "exercise": 288,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 94,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "15fbb98b73604d59ae9baab850b16d5e",
+   "image": "exercise-images/0289/15fbb98b73604d59ae9baab850b16d5e.webp",
+   "exercise": 289,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 95,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "86a73b262763471da419a38ce3fc3560",
+   "image": "exercise-images/0293/86a73b262763471da419a38ce3fc3560.webp",
+   "exercise": 293,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 96,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b39e9a58b13446c7a9fa48332a048e55",
+   "image": "exercise-images/0294/b39e9a58b13446c7a9fa48332a048e55.webp",
+   "exercise": 294,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 97,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "613fb03fb2a24986ae95d382ed3515d7",
+   "image": "exercise-images/0295/613fb03fb2a24986ae95d382ed3515d7.webp",
+   "exercise": 295,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 98,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a68d859050984afb931ed87a705726b5",
+   "image": "exercise-images/0297/a68d859050984afb931ed87a705726b5.webp",
+   "exercise": 297,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 99,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d8c39ea1251d4a71999d399ccf45fd58",
+   "image": "exercise-images/0298/d8c39ea1251d4a71999d399ccf45fd58.webp",
+   "exercise": 298,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 100,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f49c9f0c07534fc486abfb13a42ac9cd",
+   "image": "exercise-images/0299/f49c9f0c07534fc486abfb13a42ac9cd.webp",
+   "exercise": 299,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 101,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a1c835896b8d4c1185a35fbdab65299e",
+   "image": "exercise-images/0301/a1c835896b8d4c1185a35fbdab65299e.webp",
+   "exercise": 301,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 102,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cfb889234188488aa83a6296949f9f2d",
+   "image": "exercise-images/0302/cfb889234188488aa83a6296949f9f2d.webp",
+   "exercise": 302,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 103,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a0610a2da324426588ff838d7afe28e1",
+   "image": "exercise-images/0308/a0610a2da324426588ff838d7afe28e1.webp",
+   "exercise": 308,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 104,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9dcef78ced054deabf43b867e7fdba54",
+   "image": "exercise-images/0310/9dcef78ced054deabf43b867e7fdba54.webp",
+   "exercise": 310,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 105,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4f5fa85dcd2d46cd8ec70c42635795db",
+   "image": "exercise-images/0313/4f5fa85dcd2d46cd8ec70c42635795db.webp",
+   "exercise": 313,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 106,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8baba3291cc6423da48c63afb0738878",
+   "image": "exercise-images/0314/8baba3291cc6423da48c63afb0738878.webp",
+   "exercise": 314,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 107,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f887d085cb014f2ea172d6bbd96fc72a",
+   "image": "exercise-images/0318/f887d085cb014f2ea172d6bbd96fc72a.webp",
+   "exercise": 318,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 108,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0329b35b6cf54b12a21c2babaee981f4",
+   "image": "exercise-images/0319/0329b35b6cf54b12a21c2babaee981f4.webp",
+   "exercise": 319,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 109,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9ecd5481fe814ff486ac971d29818ae8",
+   "image": "exercise-images/0320/9ecd5481fe814ff486ac971d29818ae8.webp",
+   "exercise": 320,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 110,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "842ca628a1ad4196b102b952cf07b051",
+   "image": "exercise-images/0327/842ca628a1ad4196b102b952cf07b051.webp",
+   "exercise": 327,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 111,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dc542a1061de4a1290b5c24edf0b3f2d",
+   "image": "exercise-images/0333/dc542a1061de4a1290b5c24edf0b3f2d.webp",
+   "exercise": 333,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 112,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bce0141e96ba480992055ff770f6922a",
+   "image": "exercise-images/0334/bce0141e96ba480992055ff770f6922a.webp",
+   "exercise": 334,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 113,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "298e78e048fd465d90287235809bdc93",
+   "image": "exercise-images/0335/298e78e048fd465d90287235809bdc93.webp",
+   "exercise": 335,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 114,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "efb17c042c6c42b39d18c29a49d992ab",
+   "image": "exercise-images/0336/efb17c042c6c42b39d18c29a49d992ab.webp",
+   "exercise": 336,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 115,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3276f9db69064f87999aa281292f6693",
+   "image": "exercise-images/0343/3276f9db69064f87999aa281292f6693.webp",
+   "exercise": 343,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 116,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "13b4fb31d946451ab4e5e3781084efaf",
+   "image": "exercise-images/0351/13b4fb31d946451ab4e5e3781084efaf.webp",
+   "exercise": 351,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 117,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f155cdc9b9ad4a969e7365a33bb35f81",
+   "image": "exercise-images/0361/f155cdc9b9ad4a969e7365a33bb35f81.webp",
+   "exercise": 361,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 118,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1de2bf8d7bad4c9fbfb5742908ae30c6",
+   "image": "exercise-images/0372/1de2bf8d7bad4c9fbfb5742908ae30c6.webp",
+   "exercise": 372,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 119,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1d0af9b38eae418ab35eab3cfa0d1457",
+   "image": "exercise-images/0375/1d0af9b38eae418ab35eab3cfa0d1457.webp",
+   "exercise": 375,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 120,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cbf3eb99dd1e49d3ac4c46dcade6b7df",
+   "image": "exercise-images/0376/cbf3eb99dd1e49d3ac4c46dcade6b7df.webp",
+   "exercise": 376,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 121,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c831972e2a144932b9ef030697dbc3cd",
+   "image": "exercise-images/0378/c831972e2a144932b9ef030697dbc3cd.webp",
+   "exercise": 378,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 122,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d1e64dfcc606467da26a1b9cb80d89d0",
+   "image": "exercise-images/0381/d1e64dfcc606467da26a1b9cb80d89d0.webp",
+   "exercise": 381,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 123,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "30c74435afa04758aea6491b47ddb763",
+   "image": "exercise-images/0383/30c74435afa04758aea6491b47ddb763.webp",
+   "exercise": 383,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 124,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "63bdd16142144834aa1da3d79a5be9b6",
+   "image": "exercise-images/0385/63bdd16142144834aa1da3d79a5be9b6.webp",
+   "exercise": 385,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 125,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "aeb0891ced304d76a6782ed138bba8a5",
+   "image": "exercise-images/0391/aeb0891ced304d76a6782ed138bba8a5.webp",
+   "exercise": 391,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 126,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "57ea8e27e91a4307acf4420bcb0ea9ad",
+   "image": "exercise-images/0400/57ea8e27e91a4307acf4420bcb0ea9ad.webp",
+   "exercise": 400,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 127,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b25d102d44614f3bac0a24a398e85111",
+   "image": "exercise-images/0401/b25d102d44614f3bac0a24a398e85111.webp",
+   "exercise": 401,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 128,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f548396b1c77475ab07e756e17951245",
+   "image": "exercise-images/0405/f548396b1c77475ab07e756e17951245.webp",
+   "exercise": 405,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 129,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bf67eb2a966b426c8636dbee06b4995c",
+   "image": "exercise-images/0406/bf67eb2a966b426c8636dbee06b4995c.webp",
+   "exercise": 406,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 130,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "26fc8e5b17354bdf8763f1263711ad1e",
+   "image": "exercise-images/0407/26fc8e5b17354bdf8763f1263711ad1e.webp",
+   "exercise": 407,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 131,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5407cef4c169427087a90ced55132829",
+   "image": "exercise-images/0410/5407cef4c169427087a90ced55132829.webp",
+   "exercise": 410,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 132,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "665a66ce2fb1488eaa52f55825f3de5e",
+   "image": "exercise-images/0413/665a66ce2fb1488eaa52f55825f3de5e.webp",
+   "exercise": 413,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 133,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b6db93f73c4d4ce18a21918ff0901ad4",
+   "image": "exercise-images/0417/b6db93f73c4d4ce18a21918ff0901ad4.webp",
+   "exercise": 417,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 134,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8dce7224c1474758b83775bccb009870",
+   "image": "exercise-images/0423/8dce7224c1474758b83775bccb009870.webp",
+   "exercise": 423,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 135,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "355d7b9613ad4d11a228086921ffffdf",
+   "image": "exercise-images/0425/355d7b9613ad4d11a228086921ffffdf.webp",
+   "exercise": 425,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 136,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9fff0c5f5bb2410790e309113ee55211",
+   "image": "exercise-images/0426/9fff0c5f5bb2410790e309113ee55211.webp",
+   "exercise": 426,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 137,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "23593ad8de154a0ebc1723ec64aa217e",
+   "image": "exercise-images/0430/23593ad8de154a0ebc1723ec64aa217e.webp",
+   "exercise": 430,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 138,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dbf7b8f087b540ac9ff432dd391c79f6",
+   "image": "exercise-images/0431/dbf7b8f087b540ac9ff432dd391c79f6.webp",
+   "exercise": 431,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 139,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "635daa29ec31457d938057b5f8606291",
+   "image": "exercise-images/0432/635daa29ec31457d938057b5f8606291.webp",
+   "exercise": 432,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 140,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6c658c4e1580438f8e4e6d8596a9d348",
+   "image": "exercise-images/0436/6c658c4e1580438f8e4e6d8596a9d348.webp",
+   "exercise": 436,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 141,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7458a77e4533433f85f4cec94bc2d67d",
+   "image": "exercise-images/0437/7458a77e4533433f85f4cec94bc2d67d.webp",
+   "exercise": 437,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 142,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d0383afc5819461783a7cb1f727ee598",
+   "image": "exercise-images/0439/d0383afc5819461783a7cb1f727ee598.webp",
+   "exercise": 439,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 143,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "97c84e3a5d684acc918090c5c79fb5f0",
+   "image": "exercise-images/0443/97c84e3a5d684acc918090c5c79fb5f0.webp",
+   "exercise": 443,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 144,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0570f840f1fc4fc59fa9b6d3d7f2d74f",
+   "image": "exercise-images/0446/0570f840f1fc4fc59fa9b6d3d7f2d74f.webp",
+   "exercise": 446,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 145,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "06e0cf9c85a74461ae3bbf403f7e4cab",
+   "image": "exercise-images/0447/06e0cf9c85a74461ae3bbf403f7e4cab.webp",
+   "exercise": 447,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 146,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ffec1e00c13144c391c6bc360730a901",
+   "image": "exercise-images/0451/ffec1e00c13144c391c6bc360730a901.webp",
+   "exercise": 451,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 147,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "473694bae1724662bbc9770a120d2d67",
+   "image": "exercise-images/0453/473694bae1724662bbc9770a120d2d67.webp",
+   "exercise": 453,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 148,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c764e70d49b64fccbab1dad0168180d8",
+   "image": "exercise-images/0454/c764e70d49b64fccbab1dad0168180d8.webp",
+   "exercise": 454,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 149,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9a293b5906854df2b7a1ad9cff12b7a0",
+   "image": "exercise-images/0459/9a293b5906854df2b7a1ad9cff12b7a0.webp",
+   "exercise": 459,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 150,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6045f2a937484edeb6ef9b126eb51b2f",
+   "image": "exercise-images/0471/6045f2a937484edeb6ef9b126eb51b2f.webp",
+   "exercise": 471,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 151,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f0e2d5ac51aa40a6872e4456b0d8cfec",
+   "image": "exercise-images/0472/f0e2d5ac51aa40a6872e4456b0d8cfec.webp",
+   "exercise": 472,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 152,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "86f86069f4a24ab99601b886ad1ecf96",
+   "image": "exercise-images/0473/86f86069f4a24ab99601b886ad1ecf96.webp",
+   "exercise": 473,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 153,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1bad38f1af334111bfc5e8c8adf9f6cc",
+   "image": "exercise-images/0489/1bad38f1af334111bfc5e8c8adf9f6cc.webp",
+   "exercise": 489,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 154,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2127c60eb1f8486bab88fcaa0cf45216",
+   "image": "exercise-images/0490/2127c60eb1f8486bab88fcaa0cf45216.webp",
+   "exercise": 490,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 155,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4e87e2820bfe488382118cf03377ee7f",
+   "image": "exercise-images/0493/4e87e2820bfe488382118cf03377ee7f.webp",
+   "exercise": 493,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 156,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "84efb9a459c840e48cd225687cbdd9fe",
+   "image": "exercise-images/0499/84efb9a459c840e48cd225687cbdd9fe.webp",
+   "exercise": 499,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 157,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c9171d3ebbc94cb6956f375e3274eded",
+   "image": "exercise-images/0507/c9171d3ebbc94cb6956f375e3274eded.webp",
+   "exercise": 507,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 158,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3cf86fe59d3e4182a1ffb1cafc3ca6f4",
+   "image": "exercise-images/0514/3cf86fe59d3e4182a1ffb1cafc3ca6f4.webp",
+   "exercise": 514,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 159,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7e4ccf0a847f478e9f501a91e5625f61",
+   "image": "exercise-images/0522/7e4ccf0a847f478e9f501a91e5625f61.webp",
+   "exercise": 522,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 160,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7a0597da74ce461cbec576dfa4c5f44b",
+   "image": "exercise-images/0527/7a0597da74ce461cbec576dfa4c5f44b.webp",
+   "exercise": 527,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 161,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4d3fdc2166194fa191991c7051ae799f",
+   "image": "exercise-images/0533/4d3fdc2166194fa191991c7051ae799f.webp",
+   "exercise": 533,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 162,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b531294ca1544e97af731c2c68abf969",
+   "image": "exercise-images/0534/b531294ca1544e97af731c2c68abf969.webp",
+   "exercise": 534,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 163,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1ce4cedbfdd94193ab694d6eca768a9f",
+   "image": "exercise-images/0535/1ce4cedbfdd94193ab694d6eca768a9f.webp",
+   "exercise": 535,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 164,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e83e5b4a65974c28a5db4960e2a9f0e7",
+   "image": "exercise-images/0539/e83e5b4a65974c28a5db4960e2a9f0e7.webp",
+   "exercise": 539,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 165,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "18ed2b02f97449daa981ede5c9b753d0",
+   "image": "exercise-images/0542/18ed2b02f97449daa981ede5c9b753d0.webp",
+   "exercise": 542,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 166,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "65c6b915190842f29628de6ab98bf805",
+   "image": "exercise-images/0544/65c6b915190842f29628de6ab98bf805.webp",
+   "exercise": 544,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 167,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ed745a5b65444366ab2b66436554047b",
+   "image": "exercise-images/0548/ed745a5b65444366ab2b66436554047b.webp",
+   "exercise": 548,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 168,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "aa1d6bf4e0ef4aa5a1833f8763dc806d",
+   "image": "exercise-images/0549/aa1d6bf4e0ef4aa5a1833f8763dc806d.webp",
+   "exercise": 549,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 169,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "aaffd9342aa144f285eae15a7cb50d95",
+   "image": "exercise-images/0550/aaffd9342aa144f285eae15a7cb50d95.webp",
+   "exercise": 550,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 170,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "37d4af637ec64410a2f9e967a327ad55",
+   "image": "exercise-images/0551/37d4af637ec64410a2f9e967a327ad55.webp",
+   "exercise": 551,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 171,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "87d6bdf02aae4a00b8a33afce247e40b",
+   "image": "exercise-images/0552/87d6bdf02aae4a00b8a33afce247e40b.webp",
+   "exercise": 552,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 172,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "01f4f621707f43ca934918d39f95bc26",
+   "image": "exercise-images/0553/01f4f621707f43ca934918d39f95bc26.webp",
+   "exercise": 553,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 173,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e0d666f3a02945b1b4eabc91da77617f",
+   "image": "exercise-images/0554/e0d666f3a02945b1b4eabc91da77617f.webp",
+   "exercise": 554,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 174,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a48b331c243e4b9d9f73cac9358b8c9c",
+   "image": "exercise-images/0562/a48b331c243e4b9d9f73cac9358b8c9c.webp",
+   "exercise": 562,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 175,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "83c04078e65041e3bd9fe3bd64da6793",
+   "image": "exercise-images/0570/83c04078e65041e3bd9fe3bd64da6793.webp",
+   "exercise": 570,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 176,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ce1876abec4b4b1d86cf36a59b18b098",
+   "image": "exercise-images/0572/ce1876abec4b4b1d86cf36a59b18b098.webp",
+   "exercise": 572,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 177,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e1b13ab4f13643e6bc3c12bd0120c313",
+   "image": "exercise-images/0573/e1b13ab4f13643e6bc3c12bd0120c313.webp",
+   "exercise": 573,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 178,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0783ae62d1634762930e09dc81ff7f1c",
+   "image": "exercise-images/0575/0783ae62d1634762930e09dc81ff7f1c.webp",
+   "exercise": 575,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 179,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e86620cc6c9643b9befe7a5ad5eb7ed3",
+   "image": "exercise-images/0577/e86620cc6c9643b9befe7a5ad5eb7ed3.webp",
+   "exercise": 577,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 180,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c0131cb5aea644bbb7e87d3b50b05d2e",
+   "image": "exercise-images/0581/c0131cb5aea644bbb7e87d3b50b05d2e.webp",
+   "exercise": 581,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 181,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "caae494169c34c37a4399573abe21317",
+   "image": "exercise-images/0584/caae494169c34c37a4399573abe21317.webp",
+   "exercise": 584,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 182,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "377cad2929a1445aa773644516c9a2b0",
+   "image": "exercise-images/0585/377cad2929a1445aa773644516c9a2b0.webp",
+   "exercise": 585,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 183,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4780d49c3c0a4c2f872bf39a6cd85bfa",
+   "image": "exercise-images/0586/4780d49c3c0a4c2f872bf39a6cd85bfa.webp",
+   "exercise": 586,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 184,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "abf43d025bb74a72bbd2325f3acb32ac",
+   "image": "exercise-images/0592/abf43d025bb74a72bbd2325f3acb32ac.webp",
+   "exercise": 592,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 185,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fd7a6c1a2dbf4248a1cd1e0ac85223cf",
+   "image": "exercise-images/0593/fd7a6c1a2dbf4248a1cd1e0ac85223cf.webp",
+   "exercise": 593,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 186,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "21270ce7df954b328c1ef35e493a4e06",
+   "image": "exercise-images/0596/21270ce7df954b328c1ef35e493a4e06.webp",
+   "exercise": 596,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 187,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1814359306d04768bc7d9ec6fbb4dfff",
+   "image": "exercise-images/0597/1814359306d04768bc7d9ec6fbb4dfff.webp",
+   "exercise": 597,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 188,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d81200b630844e56990b11178c5be4b5",
+   "image": "exercise-images/0598/d81200b630844e56990b11178c5be4b5.webp",
+   "exercise": 598,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 189,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cc72b673f9444d63a9f99aa05eb249b0",
+   "image": "exercise-images/0599/cc72b673f9444d63a9f99aa05eb249b0.webp",
+   "exercise": 599,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 190,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fe063d633e2046efbac074af4f020639",
+   "image": "exercise-images/0602/fe063d633e2046efbac074af4f020639.webp",
+   "exercise": 602,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 191,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f41ced0173d14b81831ed8a82ec6aa83",
+   "image": "exercise-images/0603/f41ced0173d14b81831ed8a82ec6aa83.webp",
+   "exercise": 603,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 192,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3c823eee852a463385ac1d0cc1e9c034",
+   "image": "exercise-images/0604/3c823eee852a463385ac1d0cc1e9c034.webp",
+   "exercise": 604,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 193,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8f625a788e714187b1007947d71dd3b1",
+   "image": "exercise-images/0605/8f625a788e714187b1007947d71dd3b1.webp",
+   "exercise": 605,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 194,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ed94356f11ae490b95119b4f125a8f60",
+   "image": "exercise-images/0607/ed94356f11ae490b95119b4f125a8f60.webp",
+   "exercise": 607,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 195,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dec97e9fe1b74bd1962181e5e1fa9c50",
+   "image": "exercise-images/0627/dec97e9fe1b74bd1962181e5e1fa9c50.webp",
+   "exercise": 627,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 196,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3a7c96cd3f7543c1b6123b4de2054817",
+   "image": "exercise-images/0630/3a7c96cd3f7543c1b6123b4de2054817.webp",
+   "exercise": 630,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 197,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "71fcb94f2c624e9cab24a86ff7d971db",
+   "image": "exercise-images/0631/71fcb94f2c624e9cab24a86ff7d971db.webp",
+   "exercise": 631,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 198,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1601f9ef04ef4463a9f000d7c6b65e23",
+   "image": "exercise-images/0643/1601f9ef04ef4463a9f000d7c6b65e23.webp",
+   "exercise": 643,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 199,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d936a04721e84e548e0eabc648af0a96",
+   "image": "exercise-images/0648/d936a04721e84e548e0eabc648af0a96.webp",
+   "exercise": 648,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 200,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "838479738bcf404b8b9624a98ebb02f5",
+   "image": "exercise-images/0650/838479738bcf404b8b9624a98ebb02f5.webp",
+   "exercise": 650,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 201,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2f4385c2a05046bdb6aa67eaca3f0978",
+   "image": "exercise-images/0651/2f4385c2a05046bdb6aa67eaca3f0978.webp",
+   "exercise": 651,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 202,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0d37ab1aca124c4d8c6ab0083ccfada5",
+   "image": "exercise-images/0652/0d37ab1aca124c4d8c6ab0083ccfada5.webp",
+   "exercise": 652,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 203,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "47b4450ea58a4f7ebaba2df538d8fccc",
+   "image": "exercise-images/0655/47b4450ea58a4f7ebaba2df538d8fccc.webp",
+   "exercise": 655,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 204,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fa2cf85306d04ad5b301302b4acffd4d",
+   "image": "exercise-images/0662/fa2cf85306d04ad5b301302b4acffd4d.webp",
+   "exercise": 662,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 205,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "40fba2f85d8f48f3b992f84d3113c48d",
+   "image": "exercise-images/0663/40fba2f85d8f48f3b992f84d3113c48d.webp",
+   "exercise": 663,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 206,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c1a6be40b15740b2b6d8c79abfac1688",
+   "image": "exercise-images/0669/c1a6be40b15740b2b6d8c79abfac1688.webp",
+   "exercise": 669,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 207,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ee9cefe6601a4fa9a0f3be8a8c2abc99",
+   "image": "exercise-images/0673/ee9cefe6601a4fa9a0f3be8a8c2abc99.webp",
+   "exercise": 673,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 208,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8fdde4ceb43b4f9b9f2ca921348b2706",
+   "image": "exercise-images/0675/8fdde4ceb43b4f9b9f2ca921348b2706.webp",
+   "exercise": 675,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 209,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9cb19d51dc2148308d8d149cfec96317",
+   "image": "exercise-images/0677/9cb19d51dc2148308d8d149cfec96317.webp",
+   "exercise": 677,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 210,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dce85f0a993446bf8f2c402d8300625d",
+   "image": "exercise-images/0680/dce85f0a993446bf8f2c402d8300625d.webp",
+   "exercise": 680,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 211,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bc2d4d7b8a9d486290ce64021e8a6fde",
+   "image": "exercise-images/0687/bc2d4d7b8a9d486290ce64021e8a6fde.webp",
+   "exercise": 687,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 212,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "90e03605152d41f0ae86e031f6bf2483",
+   "image": "exercise-images/0688/90e03605152d41f0ae86e031f6bf2483.webp",
+   "exercise": 688,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 213,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1c899408081f4546abf32f833cce0ce5",
+   "image": "exercise-images/0690/1c899408081f4546abf32f833cce0ce5.webp",
+   "exercise": 690,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 214,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "186362229b2d49b9b56b6a226c9523a9",
+   "image": "exercise-images/0705/186362229b2d49b9b56b6a226c9523a9.webp",
+   "exercise": 705,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 215,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e7a3feabb58a4be99ea6ccce2d81755b",
+   "image": "exercise-images/0710/e7a3feabb58a4be99ea6ccce2d81755b.webp",
+   "exercise": 710,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 216,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "30c18c969572470a89a0273ca73b3461",
+   "image": "exercise-images/0725/30c18c969572470a89a0273ca73b3461.webp",
+   "exercise": 725,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 217,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ae2e171b2bc84abebd546812c464d7a2",
+   "image": "exercise-images/0735/ae2e171b2bc84abebd546812c464d7a2.webp",
+   "exercise": 735,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 218,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d74a2307fec54e13855735111965b968",
+   "image": "exercise-images/0739/d74a2307fec54e13855735111965b968.webp",
+   "exercise": 739,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 219,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "21362c10874049569d6b16305fa278fe",
+   "image": "exercise-images/0743/21362c10874049569d6b16305fa278fe.webp",
+   "exercise": 743,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 220,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "408b0484b9964c5d814398d21bc94b1f",
+   "image": "exercise-images/0746/408b0484b9964c5d814398d21bc94b1f.webp",
+   "exercise": 746,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 221,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "023701168e41453f92c7d9ddf59469e0",
+   "image": "exercise-images/0748/023701168e41453f92c7d9ddf59469e0.webp",
+   "exercise": 748,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 222,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "789a497116754da38f2f3b44b8c8bbdf",
+   "image": "exercise-images/0751/789a497116754da38f2f3b44b8c8bbdf.webp",
+   "exercise": 751,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 223,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2518fb78102d4720b5e02ade1bbbe190",
+   "image": "exercise-images/0752/2518fb78102d4720b5e02ade1bbbe190.webp",
+   "exercise": 752,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 224,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4540c21dcf8e4a6eac138dd587579713",
+   "image": "exercise-images/0753/4540c21dcf8e4a6eac138dd587579713.webp",
+   "exercise": 753,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 225,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "edacfb73c15b4c5789a454cad8b79b19",
+   "image": "exercise-images/0756/edacfb73c15b4c5789a454cad8b79b19.webp",
+   "exercise": 756,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 226,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "da8e68d4068643fd8978d16876b2eeb0",
+   "image": "exercise-images/0757/da8e68d4068643fd8978d16876b2eeb0.webp",
+   "exercise": 757,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 227,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "048b7ec2d943419684eff99994f2fcf5",
+   "image": "exercise-images/0763/048b7ec2d943419684eff99994f2fcf5.webp",
+   "exercise": 763,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 228,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b2b180de31e54459818e2e71b659daf8",
+   "image": "exercise-images/0766/b2b180de31e54459818e2e71b659daf8.webp",
+   "exercise": 766,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 229,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bfd859ce2a004b17818ae229e8c98ff3",
+   "image": "exercise-images/0767/bfd859ce2a004b17818ae229e8c98ff3.webp",
+   "exercise": 767,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 230,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dfae1a6cf24f481ba94f096ec554a61b",
+   "image": "exercise-images/0768/dfae1a6cf24f481ba94f096ec554a61b.webp",
+   "exercise": 768,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 231,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "570de2ac4b224b26b7d21e75402d3cb5",
+   "image": "exercise-images/0770/570de2ac4b224b26b7d21e75402d3cb5.webp",
+   "exercise": 770,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 232,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "960988396c804e19b0fe58295189c678",
+   "image": "exercise-images/0773/960988396c804e19b0fe58295189c678.webp",
+   "exercise": 773,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 233,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "af7bf7f1cb93412fa6f36d328cf4883c",
+   "image": "exercise-images/0775/af7bf7f1cb93412fa6f36d328cf4883c.webp",
+   "exercise": 775,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 234,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f7803edabdcf4a7daaa1cff2b7555369",
+   "image": "exercise-images/0776/f7803edabdcf4a7daaa1cff2b7555369.webp",
+   "exercise": 776,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 235,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2be6bcc889e04820a46c1769f2756b70",
+   "image": "exercise-images/0788/2be6bcc889e04820a46c1769f2756b70.webp",
+   "exercise": 788,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 236,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "734d407bcd4e490ba960997d6e3cc0f9",
+   "image": "exercise-images/0795/734d407bcd4e490ba960997d6e3cc0f9.webp",
+   "exercise": 795,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 237,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "968acbaeb53e47d4a3c4a90d8cf38fbe",
+   "image": "exercise-images/0805/968acbaeb53e47d4a3c4a90d8cf38fbe.webp",
+   "exercise": 805,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 238,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f0c9d694045c41b0a246b7c9c9d4ca11",
+   "image": "exercise-images/0808/f0c9d694045c41b0a246b7c9c9d4ca11.webp",
+   "exercise": 808,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 239,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d902c5fcec944d82889039ff20a7b37a",
+   "image": "exercise-images/0809/d902c5fcec944d82889039ff20a7b37a.webp",
+   "exercise": 809,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 240,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7858b1290e6845d08c8aecebe942f86d",
+   "image": "exercise-images/0811/7858b1290e6845d08c8aecebe942f86d.webp",
+   "exercise": 811,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 241,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7aafd32df43b4e548ca4ecc9c676ae28",
+   "image": "exercise-images/0814/7aafd32df43b4e548ca4ecc9c676ae28.webp",
+   "exercise": 814,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 242,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d3468865c962426485526c15948f2f8f",
+   "image": "exercise-images/0817/d3468865c962426485526c15948f2f8f.webp",
+   "exercise": 817,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 243,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "87a6aa93f86d45b6b7cc7ceb12368834",
+   "image": "exercise-images/0826/87a6aa93f86d45b6b7cc7ceb12368834.webp",
+   "exercise": 826,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 244,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3d7b1e46e49340b6aac738b2666db11a",
+   "image": "exercise-images/0835/3d7b1e46e49340b6aac738b2666db11a.webp",
+   "exercise": 835,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 245,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6d48e88f0b974fcdb7315e814b95a20a",
+   "image": "exercise-images/0840/6d48e88f0b974fcdb7315e814b95a20a.webp",
+   "exercise": 840,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 246,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f044cf74c4894756a047c238391f0141",
+   "image": "exercise-images/0856/f044cf74c4894756a047c238391f0141.webp",
+   "exercise": 856,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 247,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "368f5531252441b9ad4188d35429db99",
+   "image": "exercise-images/0857/368f5531252441b9ad4188d35429db99.webp",
+   "exercise": 857,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 248,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fe5c73d2a750444b88ea4d3d97ba24db",
+   "image": "exercise-images/0861/fe5c73d2a750444b88ea4d3d97ba24db.webp",
+   "exercise": 861,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 249,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f1b6c2cc87fb410ea1f7d14dd8effa57",
+   "image": "exercise-images/0862/f1b6c2cc87fb410ea1f7d14dd8effa57.webp",
+   "exercise": 862,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 250,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "87d67d0f934145229bb427bbac6deaad",
+   "image": "exercise-images/0868/87d67d0f934145229bb427bbac6deaad.webp",
+   "exercise": 868,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 251,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1575840ad17e4b02911f3d4f88d241a2",
+   "image": "exercise-images/0871/1575840ad17e4b02911f3d4f88d241a2.webp",
+   "exercise": 871,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 252,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dded315088854c22bc901e6ce31bc989",
+   "image": "exercise-images/0872/dded315088854c22bc901e6ce31bc989.webp",
+   "exercise": 872,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 253,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7d78589a88b24a81af48cc8db9cf557e",
+   "image": "exercise-images/0970/7d78589a88b24a81af48cc8db9cf557e.webp",
+   "exercise": 970,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 254,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2197fa6976bd47f19a1b785347ad9820",
+   "image": "exercise-images/0975/2197fa6976bd47f19a1b785347ad9820.webp",
+   "exercise": 975,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 255,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1afdc25a221e42cda90c78e04a8c3c61",
+   "image": "exercise-images/0977/1afdc25a221e42cda90c78e04a8c3c61.webp",
+   "exercise": 977,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 256,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "beed0367fc5a47ab8df89ff05ab9c7c1",
+   "image": "exercise-images/0978/beed0367fc5a47ab8df89ff05ab9c7c1.webp",
+   "exercise": 978,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 257,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "741d64563ce141dfb51634ed34958253",
+   "image": "exercise-images/0979/741d64563ce141dfb51634ed34958253.webp",
+   "exercise": 979,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 258,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3d024d95df5448388e84ab563167c4fc",
+   "image": "exercise-images/0980/3d024d95df5448388e84ab563167c4fc.webp",
+   "exercise": 980,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 259,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ba1d350461e04ce689f6124ae4d4f9f2",
+   "image": "exercise-images/0988/ba1d350461e04ce689f6124ae4d4f9f2.webp",
+   "exercise": 988,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 260,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e9f157c82a2043e2bc6b1509d943f3d6",
+   "image": "exercise-images/0989/e9f157c82a2043e2bc6b1509d943f3d6.webp",
+   "exercise": 989,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 261,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a61ad041cf394b9fb9ee74aa0484134c",
+   "image": "exercise-images/0990/a61ad041cf394b9fb9ee74aa0484134c.webp",
+   "exercise": 990,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 262,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c10cb682cbe54403b5e37205a4f55586",
+   "image": "exercise-images/0993/c10cb682cbe54403b5e37205a4f55586.webp",
+   "exercise": 993,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 263,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8dfae6476d774f1e8e5118090bc9abb3",
+   "image": "exercise-images/0994/8dfae6476d774f1e8e5118090bc9abb3.webp",
+   "exercise": 994,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 264,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "991063712cd44f0491ad65ecbcab110e",
+   "image": "exercise-images/0997/991063712cd44f0491ad65ecbcab110e.webp",
+   "exercise": 997,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 265,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e1f0684e68284bcf9e439d0dae830a04",
+   "image": "exercise-images/1001/e1f0684e68284bcf9e439d0dae830a04.webp",
+   "exercise": 1001,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 266,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0e9b7602aa4f421e93ca00d16fe46980",
+   "image": "exercise-images/1002/0e9b7602aa4f421e93ca00d16fe46980.webp",
+   "exercise": 1002,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 267,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9e2dc9bc29224c409f2fe391e05454d5",
+   "image": "exercise-images/1004/9e2dc9bc29224c409f2fe391e05454d5.webp",
+   "exercise": 1004,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 268,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e0117d64bcfc4604b421463edb5de9de",
+   "image": "exercise-images/1005/e0117d64bcfc4604b421463edb5de9de.webp",
+   "exercise": 1005,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 269,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4588b1d1a9f74d759ff497fe1823ee33",
+   "image": "exercise-images/1009/4588b1d1a9f74d759ff497fe1823ee33.webp",
+   "exercise": 1009,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 270,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "056b47597722405782202326c07343f9",
+   "image": "exercise-images/1011/056b47597722405782202326c07343f9.webp",
+   "exercise": 1011,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 271,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "62558e2dd518412f8f80eb42cc814179",
+   "image": "exercise-images/1013/62558e2dd518412f8f80eb42cc814179.webp",
+   "exercise": 1013,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 272,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fec395bd36bd499197a89f14d1ad8e1d",
+   "image": "exercise-images/1017/fec395bd36bd499197a89f14d1ad8e1d.webp",
+   "exercise": 1017,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 273,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0adbfd1d9882465e933bc4a84166f88e",
+   "image": "exercise-images/1160/0adbfd1d9882465e933bc4a84166f88e.webp",
+   "exercise": 1160,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 274,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "44f97b677f6c44d3893c10e08be2605a",
+   "image": "exercise-images/1263/44f97b677f6c44d3893c10e08be2605a.webp",
+   "exercise": 1263,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 275,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6a0bae4490f74d33899a1a163900ec86",
+   "image": "exercise-images/1267/6a0bae4490f74d33899a1a163900ec86.webp",
+   "exercise": 1267,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 276,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9144c6cef998422d8d7280455f540cc5",
+   "image": "exercise-images/1299/9144c6cef998422d8d7280455f540cc5.webp",
+   "exercise": 1299,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 277,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4e648e25280d4210af22d1066b817e81",
+   "image": "exercise-images/1300/4e648e25280d4210af22d1066b817e81.webp",
+   "exercise": 1300,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 278,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "24d9817b86294b7d90373bbe3c7b4181",
+   "image": "exercise-images/1302/24d9817b86294b7d90373bbe3c7b4181.webp",
+   "exercise": 1302,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 279,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3710a9cdb96a4d988854f008aae230c0",
+   "image": "exercise-images/1313/3710a9cdb96a4d988854f008aae230c0.webp",
+   "exercise": 1313,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 280,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "652c99a923e347bebf149c1fc65211b4",
+   "image": "exercise-images/1314/652c99a923e347bebf149c1fc65211b4.webp",
+   "exercise": 1314,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 281,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "653a2c4290604ed1862111d9c7a60525",
+   "image": "exercise-images/1319/653a2c4290604ed1862111d9c7a60525.webp",
+   "exercise": 1319,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 282,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "55708fb1d2a74e7dacfd75f756cf3333",
+   "image": "exercise-images/1326/55708fb1d2a74e7dacfd75f756cf3333.webp",
+   "exercise": 1326,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 283,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "60e2eafd952c47c1b13bbe0b3a97574a",
+   "image": "exercise-images/1338/60e2eafd952c47c1b13bbe0b3a97574a.webp",
+   "exercise": 1338,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 284,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "025f7e5afc864361a6c44f0d2f7d86af",
+   "image": "exercise-images/1345/025f7e5afc864361a6c44f0d2f7d86af.webp",
+   "exercise": 1345,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 285,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "907b3b39a2174dbe8d64b69f3c4a5324",
+   "image": "exercise-images/1350/907b3b39a2174dbe8d64b69f3c4a5324.webp",
+   "exercise": 1350,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 286,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "031b5613128f494bb3130f0f268c7807",
+   "image": "exercise-images/1354/031b5613128f494bb3130f0f268c7807.webp",
+   "exercise": 1354,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 287,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e6f8b036d54745ef8dd8d74ca4730487",
+   "image": "exercise-images/1359/e6f8b036d54745ef8dd8d74ca4730487.webp",
+   "exercise": 1359,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 288,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "42a3a10754c44e8e972250b3a2f5c006",
+   "image": "exercise-images/1365/42a3a10754c44e8e972250b3a2f5c006.webp",
+   "exercise": 1365,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 289,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8ef60cd1af5e4887b4757b757fd8731c",
+   "image": "exercise-images/1366/8ef60cd1af5e4887b4757b757fd8731c.webp",
+   "exercise": 1366,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 290,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "106187cd8d2c4e9db457eb6869273a97",
+   "image": "exercise-images/1368/106187cd8d2c4e9db457eb6869273a97.webp",
+   "exercise": 1368,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 291,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "93d1c57c0f11421c88c18c7d3c288dcd",
+   "image": "exercise-images/1372/93d1c57c0f11421c88c18c7d3c288dcd.webp",
+   "exercise": 1372,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 292,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f3ebd80f734a47cc9df70570d8315931",
+   "image": "exercise-images/1373/f3ebd80f734a47cc9df70570d8315931.webp",
+   "exercise": 1373,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 293,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "cdbbe9cffa52484d9bb4bbebbd16b60c",
+   "image": "exercise-images/1379/cdbbe9cffa52484d9bb4bbebbd16b60c.webp",
+   "exercise": 1379,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 294,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f15dc09fbd2a4be885eb6169f1ca4622",
+   "image": "exercise-images/1398/f15dc09fbd2a4be885eb6169f1ca4622.webp",
+   "exercise": 1398,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 295,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "11baf5579b054f6db1397bed2fc811bc",
+   "image": "exercise-images/1399/11baf5579b054f6db1397bed2fc811bc.webp",
+   "exercise": 1399,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 296,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5b48c7313f2c4cee9d9e2ee15b688c15",
+   "image": "exercise-images/1408/5b48c7313f2c4cee9d9e2ee15b688c15.webp",
+   "exercise": 1408,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 297,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7eb34e98bbca4a37aa3ff2a88d340a70",
+   "image": "exercise-images/1409/7eb34e98bbca4a37aa3ff2a88d340a70.webp",
+   "exercise": 1409,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 298,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e65d27b8f632485995a2a9e5621bf12e",
+   "image": "exercise-images/1423/e65d27b8f632485995a2a9e5621bf12e.webp",
+   "exercise": 1423,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 299,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2534650a178247ebbfd64e7dd8b051cf",
+   "image": "exercise-images/1429/2534650a178247ebbfd64e7dd8b051cf.webp",
+   "exercise": 1429,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 300,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "68d59c8038a54e29a85fa5a7eba36937",
+   "image": "exercise-images/1451/68d59c8038a54e29a85fa5a7eba36937.webp",
+   "exercise": 1451,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 301,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dc7e38a094cd4f6bbe3d4662b64bc262",
+   "image": "exercise-images/1452/dc7e38a094cd4f6bbe3d4662b64bc262.webp",
+   "exercise": 1452,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 302,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "053699a68160470080dc2216cef4d041",
+   "image": "exercise-images/1459/053699a68160470080dc2216cef4d041.webp",
+   "exercise": 1459,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 303,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "55fd91dddd974431aca70bff3e4b2c59",
+   "image": "exercise-images/1460/55fd91dddd974431aca70bff3e4b2c59.webp",
+   "exercise": 1460,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 304,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4dbd6e0e25294455a5e0c5a10b0357de",
+   "image": "exercise-images/1471/4dbd6e0e25294455a5e0c5a10b0357de.webp",
+   "exercise": 1471,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 305,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "edd66ff731bc41d796b9d60937efcdbc",
+   "image": "exercise-images/1472/edd66ff731bc41d796b9d60937efcdbc.webp",
+   "exercise": 1472,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 306,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "96323c2f9cba44f0bf2c0e9195fe72c3",
+   "image": "exercise-images/1476/96323c2f9cba44f0bf2c0e9195fe72c3.webp",
+   "exercise": 1476,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 307,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "48290cb608b149c0a58fea8f15af2aff",
+   "image": "exercise-images/1494/48290cb608b149c0a58fea8f15af2aff.webp",
+   "exercise": 1494,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 308,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "dd5f78a1da884c4d818dcb34c4cb6fea",
+   "image": "exercise-images/1495/dd5f78a1da884c4d818dcb34c4cb6fea.webp",
+   "exercise": 1495,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 309,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4556c8bb3a3c469b88e54c0e9dff3589",
+   "image": "exercise-images/1511/4556c8bb3a3c469b88e54c0e9dff3589.webp",
+   "exercise": 1511,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 310,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7f6b92386c3b421ab3b89eb9ff84f613",
+   "image": "exercise-images/1576/7f6b92386c3b421ab3b89eb9ff84f613.webp",
+   "exercise": 1576,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 311,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0ec9ad5696944550b09f8397b0c07445",
+   "image": "exercise-images/1636/0ec9ad5696944550b09f8397b0c07445.webp",
+   "exercise": 1636,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 312,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a252b04f346d4e16b3b988325b2c9c6e",
+   "image": "exercise-images/1654/a252b04f346d4e16b3b988325b2c9c6e.webp",
+   "exercise": 1654,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 313,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f0642c237fb64e7087e2f604c3d8ff06",
+   "image": "exercise-images/1662/f0642c237fb64e7087e2f604c3d8ff06.webp",
+   "exercise": 1662,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 314,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "37e64230d7ab448d914e4024fd02b212",
+   "image": "exercise-images/1688/37e64230d7ab448d914e4024fd02b212.webp",
+   "exercise": 1688,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 315,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "296abaf43a0d427e834ac631e2e1bfd1",
+   "image": "exercise-images/1717/296abaf43a0d427e834ac631e2e1bfd1.webp",
+   "exercise": 1717,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 316,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "820fc448868d4144b0845bdebff4abe8",
+   "image": "exercise-images/1724/820fc448868d4144b0845bdebff4abe8.webp",
+   "exercise": 1724,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 317,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "56f55b77c52340709ac3db8dfebef5d6",
+   "image": "exercise-images/1727/56f55b77c52340709ac3db8dfebef5d6.webp",
+   "exercise": 1727,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 318,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "35fbbc412afa4f6dba15489079d2648d",
+   "image": "exercise-images/1756/35fbbc412afa4f6dba15489079d2648d.webp",
+   "exercise": 1756,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 319,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f6c15a7f89d4463bb7f9b91440865134",
+   "image": "exercise-images/1757/f6c15a7f89d4463bb7f9b91440865134.webp",
+   "exercise": 1757,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 320,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a6b4c7afa79347fe842fd08d66d417ef",
+   "image": "exercise-images/1759/a6b4c7afa79347fe842fd08d66d417ef.webp",
+   "exercise": 1759,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 321,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6c0d74f7e63d485f8286c348b45a68de",
+   "image": "exercise-images/1760/6c0d74f7e63d485f8286c348b45a68de.webp",
+   "exercise": 1760,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 322,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "a8f6bb662bee4fc783b88734156fd547",
+   "image": "exercise-images/1761/a8f6bb662bee4fc783b88734156fd547.webp",
+   "exercise": 1761,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 323,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c46df1db38b747b5aa6234822ffe90a1",
+   "image": "exercise-images/2133/c46df1db38b747b5aa6234822ffe90a1.webp",
+   "exercise": 2133,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 324,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0f471d018867412ea115a0a5f1af36ce",
+   "image": "exercise-images/2137/0f471d018867412ea115a0a5f1af36ce.webp",
+   "exercise": 2137,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 325,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "663be79ad23040dc94dcc8363481fc94",
+   "image": "exercise-images/2144/663be79ad23040dc94dcc8363481fc94.webp",
+   "exercise": 2144,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 326,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "27a3ed3a11bc4ce9bee63a77e5daf47a",
+   "image": "exercise-images/2188/27a3ed3a11bc4ce9bee63a77e5daf47a.webp",
+   "exercise": 2188,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 327,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bd827ad14eb74b88a7e1ed135b7f4b39",
+   "image": "exercise-images/2204/bd827ad14eb74b88a7e1ed135b7f4b39.webp",
+   "exercise": 2204,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 328,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d62e58d270fe4a5e9d90bfb253aa9242",
+   "image": "exercise-images/2289/d62e58d270fe4a5e9d90bfb253aa9242.webp",
+   "exercise": 2289,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 329,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e4ed2810f708400887aa16f137c70f02",
+   "image": "exercise-images/2292/e4ed2810f708400887aa16f137c70f02.webp",
+   "exercise": 2292,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 330,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "fd68d683ca7c412eb6192926a86789c6",
+   "image": "exercise-images/2294/fd68d683ca7c412eb6192926a86789c6.webp",
+   "exercise": 2294,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 331,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9c4e6027be734160b60390a933c0735f",
+   "image": "exercise-images/2329/9c4e6027be734160b60390a933c0735f.webp",
+   "exercise": 2329,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 332,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f4bf388b341c40e68ea64a5aff11f3aa",
+   "image": "exercise-images/2335/f4bf388b341c40e68ea64a5aff11f3aa.webp",
+   "exercise": 2335,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 333,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "798c8feb03a04bf0842545211590006c",
+   "image": "exercise-images/2368/798c8feb03a04bf0842545211590006c.webp",
+   "exercise": 2368,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 334,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "9d311878c99f4316b6964b592ba145ce",
+   "image": "exercise-images/2398/9d311878c99f4316b6964b592ba145ce.webp",
+   "exercise": 2398,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 335,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b7b7c5d6962842dc8d4e5934842ea966",
+   "image": "exercise-images/2459/b7b7c5d6962842dc8d4e5934842ea966.webp",
+   "exercise": 2459,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 767,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 336,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "988e51b776604875bc7f90913ab0b8df",
+   "image": "exercise-images/2466/988e51b776604875bc7f90913ab0b8df.webp",
+   "exercise": 2466,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 337,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "75fc65bec3e54653b4390930d3aa4e26",
+   "image": "exercise-images/2571/75fc65bec3e54653b4390930d3aa4e26.webp",
+   "exercise": 2571,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 338,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "28a5f4264b4f445abd1d84b31acc7445",
+   "image": "exercise-images/2616/28a5f4264b4f445abd1d84b31acc7445.webp",
+   "exercise": 2616,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 339,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "11e5037305034caba62c49883fe874e8",
+   "image": "exercise-images/2802/11e5037305034caba62c49883fe874e8.webp",
+   "exercise": 2802,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 340,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4bcdfb46b13d47129916b1bd8bbb43b2",
+   "image": "exercise-images/2810/4bcdfb46b13d47129916b1bd8bbb43b2.webp",
+   "exercise": 2810,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 341,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "263c0fd0aecb4070837f8713b4b23e91",
+   "image": "exercise-images/3007/263c0fd0aecb4070837f8713b4b23e91.webp",
+   "exercise": 3007,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 342,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "7f7b104f7e854b51b7869cb622e5d77b",
+   "image": "exercise-images/3013/7f7b104f7e854b51b7869cb622e5d77b.webp",
+   "exercise": 3013,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 343,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "ef368ab39d354b6f99bda2e869b7c8f0",
+   "image": "exercise-images/3017/ef368ab39d354b6f99bda2e869b7c8f0.webp",
+   "exercise": 3017,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 344,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3b306783b6824e1aa393f4d54d3541b4",
+   "image": "exercise-images/3021/3b306783b6824e1aa393f4d54d3541b4.webp",
+   "exercise": 3021,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 345,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "8ced1379d2cb49d68ee73d60b704e66a",
+   "image": "exercise-images/3122/8ced1379d2cb49d68ee73d60b704e66a.webp",
+   "exercise": 3122,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 346,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "bb08bcd316d848d98fdc106a9c4dfa35",
+   "image": "exercise-images/3124/bb08bcd316d848d98fdc106a9c4dfa35.webp",
+   "exercise": 3124,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 347,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e3ab0c92ba9e4aff915848654985f87c",
+   "image": "exercise-images/3142/e3ab0c92ba9e4aff915848654985f87c.webp",
+   "exercise": 3142,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 348,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5c90b685232840e69fea7720c8cb14d6",
+   "image": "exercise-images/3144/5c90b685232840e69fea7720c8cb14d6.webp",
+   "exercise": 3144,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 349,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "be0d96178f4043899ff329fc54501965",
+   "image": "exercise-images/3145/be0d96178f4043899ff329fc54501965.webp",
+   "exercise": 3145,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 350,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "052fedf37ded4f328ad929e8dd0634e6",
+   "image": "exercise-images/3193/052fedf37ded4f328ad929e8dd0634e6.webp",
+   "exercise": 3193,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 351,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "5bb156d8be694256b7ae2abc2ac03b92",
+   "image": "exercise-images/3223/5bb156d8be694256b7ae2abc2ac03b92.webp",
+   "exercise": 3223,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 352,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "f7d2218028154ca7ac2c290a02d03236",
+   "image": "exercise-images/3293/f7d2218028154ca7ac2c290a02d03236.webp",
+   "exercise": 3293,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 353,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "90425a4d765e4311a010b8472f245b22",
+   "image": "exercise-images/3302/90425a4d765e4311a010b8472f245b22.webp",
+   "exercise": 3302,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 354,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "854d4e7d3f3145a0a8cf738556e9394b",
+   "image": "exercise-images/3305/854d4e7d3f3145a0a8cf738556e9394b.webp",
+   "exercise": 3305,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 355,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1d6f63d99d0645a8985e7f0c4c79f538",
+   "image": "exercise-images/3360/1d6f63d99d0645a8985e7f0c4c79f538.webp",
+   "exercise": 3360,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 356,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c34df178ba664ca9bfcff765cc1a2a77",
+   "image": "exercise-images/3361/c34df178ba664ca9bfcff765cc1a2a77.webp",
+   "exercise": 3361,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 357,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "c5c9cc6563c54df6bc74ef54aca5d84b",
+   "image": "exercise-images/3419/c5c9cc6563c54df6bc74ef54aca5d84b.webp",
+   "exercise": 3419,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 358,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e240150b0b03493fa75ec95791a2fc67",
+   "image": "exercise-images/3420/e240150b0b03493fa75ec95791a2fc67.webp",
+   "exercise": 3420,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 359,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "4517a4cf129842528057814b09e77e07",
+   "image": "exercise-images/3470/4517a4cf129842528057814b09e77e07.webp",
+   "exercise": 3470,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 360,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "0971681a3261473b9abfee03e4a1bca7",
+   "image": "exercise-images/3543/0971681a3261473b9abfee03e4a1bca7.webp",
+   "exercise": 3543,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 361,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "b7bc707e8d3c48e78299a0944103fa77",
+   "image": "exercise-images/3545/b7bc707e8d3c48e78299a0944103fa77.webp",
+   "exercise": 3545,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 362,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "65d125a9252a4051913f1e95708b23ea",
+   "image": "exercise-images/3547/65d125a9252a4051913f1e95708b23ea.webp",
+   "exercise": 3547,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 363,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "e82fa96225314c1ab7c6ac8933c7dbba",
+   "image": "exercise-images/3560/e82fa96225314c1ab7c6ac8933c7dbba.webp",
+   "exercise": 3560,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 364,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "62ad220ae13a4d34bd8067b7123f7cce",
+   "image": "exercise-images/3561/62ad220ae13a4d34bd8067b7123f7cce.webp",
+   "exercise": 3561,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 365,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "2fb777bbb947414fb1aa2e6e7ea346cd",
+   "image": "exercise-images/3563/2fb777bbb947414fb1aa2e6e7ea346cd.webp",
+   "exercise": 3563,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 366,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "aea9e9cac6ef472d849b99a4e76110d4",
+   "image": "exercise-images/3582/aea9e9cac6ef472d849b99a4e76110d4.webp",
+   "exercise": 3582,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 367,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "58c2ce704a704d8c805391aa0c8dd11f",
+   "image": "exercise-images/3636/58c2ce704a704d8c805391aa0c8dd11f.webp",
+   "exercise": 3636,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 368,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "6bf4ac87af0b4932901b9964486d4da5",
+   "image": "exercise-images/3645/6bf4ac87af0b4932901b9964486d4da5.webp",
+   "exercise": 3645,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 369,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "18f535ea86be48edaacbc33bfbf880e3",
+   "image": "exercise-images/3663/18f535ea86be48edaacbc33bfbf880e3.webp",
+   "exercise": 3663,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 370,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "1985f8cf12a04b9c9b4e249271e06a39",
+   "image": "exercise-images/3670/1985f8cf12a04b9c9b4e249271e06a39.webp",
+   "exercise": 3670,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 371,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "104cb3e714324e82b607e5946d585460",
+   "image": "exercise-images/3699/104cb3e714324e82b607e5946d585460.webp",
+   "exercise": 3699,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 372,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "3152fcbcca7746e1b6c7e5839a3fff8e",
+   "image": "exercise-images/3888/3152fcbcca7746e1b6c7e5839a3fff8e.webp",
+   "exercise": 3888,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ },
+ {
+  "pk": 373,
+  "model": "exercises.exerciseimage",
+  "fields": {
+   "uuid": "d824caf5b4de4caa8ac9ddaba8625b8f",
+   "image": "exercise-images/5201/d824caf5b4de4caa8ac9ddaba8625b8f.webp",
+   "exercise": 5201,
+   "is_main": true,
+   "license": 1,
+   "style": "1",
+   "width": 1440,
+   "height": 768,
+   "created": "2026-11-15T00:00:00+00:00",
+   "last_update": "2026-11-15T00:00:00+00:00"
+  }
+ }
+]
