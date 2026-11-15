@@ -168,6 +168,28 @@
   (۳۷۳ تمرین، ۷۴۶ ترجمه، ۳۷۳ تصویر، ۳۷۳ ویدیو) و `manage.py check` بدون خطا.
 - **برگشت:** `git revert` روی کامیت مربوطه.
 
+---
+
+## ۲۰۲۶-۱۱-۱۵ — تمرکز بر پایه: حذف ویدیوها + ایمیل Gmail
+
+- **دسته:** باز‌پشتی / ایمیل
+- **فایل‌ها:**
+  - `wger/exercises/fixtures/exercise-videos.json` (حذف شد)
+  - `wger/tasks.py` (خط لود fixture ویدیو حذف شد)
+  - `deploy/download-videos.py` (حذف شد)
+  - `deploy/docker-compose.yml` (سرویس `media-init` حذف شد)
+  - `deploy/.gitignore`
+  - `deploy/prod.env`
+  - `deploy/README.md`
+- **چه شد:**
+  - کار ویدیو کنار گذاشته شد (کاربر: «اتصال ویدیوها رو بیخیال شو»). فقط تصاویر
+    باقی ماندند.
+  - تنظیمات ایمیل واقعی روی Gmail SMTP (`smtp.gmail.com:587`، TLS) با آدرس
+    `moficious@gmail.com` در `prod.env` تنظیم شد. `EMAIL_HOST_PASSWORD` خالی است و
+    باید با App Password گوگل پر شود.
+- **چرا:** کاربر خواست روی کار کردن پایه‌ی برنامه تمرکز کنیم و ویدیو برای بعد باشد.
+- **برگشت:** `git revert` روی کامیت مربوطه.
+
 
 
 

@@ -156,7 +156,6 @@ def load_fixtures(context, settings_path: str = None):
     call_command('loaddata', 'exercise-base-data.json')
     call_command('loaddata', 'translations.json')
     call_command('loaddata', 'exercise-images.json')
-    call_command('loaddata', 'exercise-videos.json')
 
     # Gym
     call_command('loaddata', 'gym.json')

@@ -50,6 +50,17 @@ SITE_URL=https://gym.mofcious.ir
 CSRF_TRUSTED_ORIGINS=https://gym.mofcious.ir
 ```
 
+## ایمیل
+
+تنظیمات SMTP در `prod.env` است و روی Gmail (`smtp.gmail.com:587`) تنظیم شده. فقط
+`EMAIL_HOST_PASSWORD` را با **App Password** گوگل پر کن (از
+https://myaccount.google.com/apppasswords — نیاز به فعال بودن تأیید مرحله‌ای دارد).
+بدون آن، ایمیل ثبت‌نام و بازیابی رمز کار نمی‌کند.
+
+## کارهای بعدی (عمداً انجام نشده)
+
+- **ویدیوهای تمرین‌ها**: فعلاً وصل نشده‌اند. تصاویر هست، ویدیوها نه.
+
 ## به‌روزرسانی
 
 ```bash
